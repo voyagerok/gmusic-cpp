@@ -1,0 +1,4 @@
+This is a simple player for Google Music. At the current moment in order to login you will need to provide android device id.
+
+Dependencies:
+libcrypto >= 1.0.1, libcurl, libboost-system, sqlite3, gtkmm-3, libmpg123, libao
